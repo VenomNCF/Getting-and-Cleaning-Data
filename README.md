@@ -7,7 +7,7 @@ In this repo, you will find the following files:
 
 README.md - This file
 
-CodeBook.md - codebook describing data and transformations
+CodeBook.md - Codebook describing data and transformations
 
 run_analysis.R - Script which performs the following steps:
   1. Merges the training and the test sets to create one data set.
